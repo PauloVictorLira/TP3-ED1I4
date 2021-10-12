@@ -1,0 +1,7 @@
+C:\Users\Lady Olívia\Desktop\TP03\TP03\bin\Debug\TrabED08-12c.exe.config
+C:\Users\Lady Olívia\Desktop\TP03\TP03\bin\Debug\TrabED08-12c.exe
+C:\Users\Lady Olívia\Desktop\TP03\TP03\bin\Debug\TrabED08-12c.pdb
+C:\Users\Lady Olívia\Desktop\TP03\TP03\obj\Debug\TP03.csproj.AssemblyReference.cache
+C:\Users\Lady Olívia\Desktop\TP03\TP03\obj\Debug\TP03.csproj.CoreCompileInputs.cache
+C:\Users\Lady Olívia\Desktop\TP03\TP03\obj\Debug\TrabED08-12c.exe
+C:\Users\Lady Olívia\Desktop\TP03\TP03\obj\Debug\TrabED08-12c.pdb
